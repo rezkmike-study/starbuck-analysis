@@ -40,6 +40,9 @@ Before running this Docker Compose setup, ensure you have Docker and Docker Comp
 
 1. **Clone the Repository:**
    - Ensure you have all the necessary files, including the Docker Compose file and any configuration files or scripts referenced within it.
+     ```bash
+     git clone https://github.com/rezkmike-study/starbuck-analysis.git
+     ```
 
 2. **Start the Environment:**
    - Open a terminal and navigate to the directory containing your `docker-compose.yml`.
