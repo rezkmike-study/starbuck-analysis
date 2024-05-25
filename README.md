@@ -1,4 +1,5 @@
-# Starbuck-Analysis
+# Big Data Management Project - Starbuck Analysis (WQD7007)
+   
 ## Exploring Starbucks Store Distribution Worldwide
 
 This repository provides a comprehensive analysis of Starbucks store distributions across the globe. Utilizing a rich dataset of Starbucks locations, this project leverages Apache Spark for data processing within a Jupyter Notebook environment, stores the processed data in MongoDB, and visualizes insights through Metabase dashboards.
@@ -7,6 +8,12 @@ This repository provides a comprehensive analysis of Starbucks store distributio
 
 The goal of this project is to explore the geographical distribution and characteristics of Starbucks stores worldwide, identifying patterns and insights that can inform business strategies and consumer behavior studies. By processing the data with Apache Spark, this project handles large volumes of data efficiently, enabling complex analytical tasks.
 
+## Team Members (Contributors):
+1. Vinod
+2. Gayathri
+3. Siew Chan
+4. Kamil
+   
 ## Dataset
 
 The dataset includes details about Starbucks stores in various countries, encompassing attributes such as location coordinates, store type, amenities provided, and opening dates. This comprehensive dataset is the foundation for our analysis and visualizations.
