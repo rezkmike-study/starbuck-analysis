@@ -4,6 +4,8 @@ This Docker Compose file sets up a local data analysis environment using Metabas
 
 ## Services Defined in Docker Compose
 
+![image](https://github.com/rezkmike-study/starbuck-analysis/assets/156246227/9ee2d118-9ea2-40d9-b99b-f34900a3c4d1)
+
 1. **Metabase:**
    - **Image:** metabase/metabase:latest
    - **Ports:** Exposes Metabase on port 3000.
