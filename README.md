@@ -20,6 +20,8 @@ The dataset includes details about Starbucks stores in various countries, encomp
 
 ## Tools and Technologies
 
+![image](https://github.com/rezkmike-study/starbuck-analysis/assets/156246227/9ee2d118-9ea2-40d9-b99b-f34900a3c4d1)
+
 - **Apache Spark**: Used for its robust data processing capabilities, allowing for efficient handling of large datasets.
 - **Jupyter Notebook**: Provides an interactive environment for data processing and analysis with Spark.
 - **MongoDB**: Serves as the data storage solution, chosen for its scalability and flexibility with large datasets.
