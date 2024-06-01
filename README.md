@@ -1,4 +1,4 @@
-# Big Data Management Project - Starbuck Analysis (WQD7007)
+# Starbuck Analysis
    
 ## Exploring Starbucks Store Distribution Worldwide
 
@@ -7,12 +7,6 @@ This repository provides a comprehensive analysis of Starbucks store distributio
 ## Project Overview
 
 The goal of this project is to explore the geographical distribution and characteristics of Starbucks stores worldwide, identifying patterns and insights that can inform business strategies and consumer behavior studies. By processing the data with Apache Spark, this project handles large volumes of data efficiently, enabling complex analytical tasks.
-
-## Team Members (Contributors):
-1. Vinod
-2. Gayathri
-3. Siew Chan
-4. Kamil
    
 ## Dataset
 
